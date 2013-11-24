@@ -4,7 +4,8 @@
 # script.py <ip>
 # Ctrl+C = Stop
 # Author : G4eL
-####################
+# Example : test.py 5.5.5.5
+############################
 import sys
 import threading
 import random
